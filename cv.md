@@ -48,7 +48,3 @@ Graduation Year 2019
 Level: Elementary
 
 ---
-
-## Contact Information
-
-Your email: [example@email.com](mailto:valentina.k1099@gmail.com)
