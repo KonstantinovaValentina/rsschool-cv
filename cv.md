@@ -23,9 +23,10 @@ Motivated and driven frontend developer with no experience building custom web a
 
 ## Code Examples
 
+```javascript
   function isPalindrome(str) {
       const sanitizedStr = str.toLowerCase().replace(/[\W_]/g, '');
-      return sanitized
+      return sanitizedStr === sanitizedStr.split('').reverse().join('');
   }
 
 ---
